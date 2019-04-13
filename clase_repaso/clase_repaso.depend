@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1555166501 source:c:\users\alumno\desktop\labo1_clases-master\clase_repaso\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"repaso.h"
+
+1555160888 c:\users\alumno\desktop\labo1_clases-master\clase_repaso\repaso.h
+
+1555166047 source:c:\users\alumno\desktop\labo1_clases-master\clase_repaso\repaso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"repaso.h"
+
